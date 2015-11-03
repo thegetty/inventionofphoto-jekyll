@@ -1,0 +1,17 @@
+---
+layout: base
+---
+{% include banner.html %}
+
+{% include toc.html %}
+
+<article>
+	
+	<header>
+		{%if page.chapter_no %}<h2 class="chapter-number"> Chapter {{ page.chapter_no }}</h2>{% endif %}
+		<h2>{{ page.title }}</h2>
+	</header>
+
+	{{ content }}
+
+</article>
