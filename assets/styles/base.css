@@ -26,7 +26,7 @@ dl, dd, figure {
 body {
 	font-family: Libre_Caslon_Text, serif;
 	font-size: 20px;
-	line-height: 1.7em;
+	line-height: 1.8em;
 	color: #282828;
 }
 
@@ -117,7 +117,8 @@ a:hover {
   font-family: CooperHewitt_Book, Helvetica, Arial, sans-serif;
 	font-size: .8em;
   letter-spacing: 1px;
-  margin-top: 80px;
+  line-height: 1.6em;
+  margin-top: 60px;
 }
 .footnotes em {
 	font-family: CooperHewitt_BookItalic, Helvetica, Arial, sans-serif;
@@ -154,7 +155,7 @@ a:hover {
 }
 
 .toc ul li {
-  line-height: 1.5em;
+  line-height: 1.6em;
   margin-bottom: .5em;
 }
 
@@ -169,8 +170,8 @@ a:hover {
 }
 
 article {
-	width: 740px;
-	margin-left: 380px;
+	width: 720px;
+	margin-left: 400px;
 	margin-top: 120px;
 }
 
@@ -183,10 +184,8 @@ article p {
 }
 
 blockquote {
-	margin-left: 2em;
+	margin: 1em 2em;
 	font-style: italic;
-	margin-top: 1em;
-	margin-bottom: 1em;
 }
 
 blockquote cite {
@@ -198,6 +197,10 @@ blockquote p em {
 	font-style: normal;
 }
 
+blockquote + p {
+  text-indent: 0;
+}
+
 article img {
 	width: 400px;
 	float: right;
@@ -205,24 +208,32 @@ article img {
 	max-width: 100%;
 }
 
-img + span {
+p img, figcaption {
 	width: 400px;
 	float: right;
 	margin: 1em 0px 1em 20px;
 	max-width: 100%;
 	font-size: .85em;
 	font-family: CooperHewitt_Semibold, Helvetica, Arial, sans-serif;
-	line-height: 1.4em;
+	line-height: 1.6em;
 	text-indent: 0;
 }
 
-img + span em {
+figcaption em {
+	font-family: CooperHewitt_SemiboldItalic, Helvetica, Arial, sans-serif;
+}
+
+figcaption strong {
+	font-family: CooperHewitt_Heavy, Helvetica, Arial, sans-serif;
+}
+
+/*img + span em {
 	font-family: CooperHewitt_SemiboldItalic, Helvetica, Arial, sans-serif;
 }
 
 img + span strong {
 	font-family: CooperHewitt_Heavy, Helvetica, Arial, sans-serif;
-}
+}*/
 
 h1 {
 	font-size: 4em;
