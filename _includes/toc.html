@@ -1,6 +1,6 @@
 <nav class="toc">
 <ul>
-<li><h4>{{ site.title }}<br /><span class="author">{{ site.author }}</h4></li>
+<li><a href="index.html"><h4>{{ site.title }}</a><br /><span class="author">{{ site.author }}</h4></li>
 {% for post in site.posts reversed %}
 <li>{%if post.chapter_no %}<a href="{{ post.url }}">Chapter {{ post.chapter_no }}: {{ post.title }}</a>{% else %}<a href="{{ post.url }}">{% if post.layout == "frontmatter" %}<em>{{ post.title }}</em>{% else %}{{ post.title }}{% endif %}</a>{% endif %}</li>
 {% endfor %}
