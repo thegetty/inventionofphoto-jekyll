@@ -1,5 +1,9 @@
-<ul class="toc-sidebar">
+<nav class="toc">
+<ul>
+<li class="title">{{ site.title }}</li>
+<li class="author">{{ site.author }}</li>
 {% for page in site.pages %}
 <li>{%if page.chapter_no %}<a href="{{ page.url }}">Chapter {{ page.chapter_no }}: {{ page.title }}</a>{% else %}<a href="{{ page.url }}">{% if page.layout == "frontmatter" %}<em>{{ page.title }}</em>{% else %}{{ page.title }}{% endif %}</a>{% endif %}</li>
 {% endfor %}
 </ul>
+</nav>

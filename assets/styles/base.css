@@ -32,7 +32,7 @@ body {
 
 em {
 	font-family: Libre_Caslon_Text_Italic, serif;
-	font-style: none;
+	font-style: normal;
 }
 
 a, a:visited {
@@ -113,7 +113,7 @@ a:hover {
 	float: right;
 }
 
-.toc-sidebar {
+.toc {
 	font-family: CooperHewitt_Book, Helvetica, Arial, sans-serif;
 	font-size: .8em;
   letter-spacing: 1px;
@@ -121,20 +121,40 @@ a:hover {
 	position: fixed;
 	float: left;
 	width: 300px;
-	margin-left: 20px;
+	margin-left: 40px;
 	margin-right: 60px;
 	padding-left: 0;
 	list-style: none;
 }
 
-.toc-sidebar em {
+.toc em {
 	font-family: CooperHewitt_BookItalic, Helvetica, Arial, sans-serif;
+}
+
+.toc ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.toc ul li {
+  line-height: 1.5em;
+  margin-bottom: .5em;
+}
+
+.toc .title {
+  font-family: CooperHewitt_Bold;
+  text-transform: uppercase;
+}
+
+.toc .author {
+  font-family: CooperHewitt_Bold;
+  margin-bottom: 1.5em;
 }
 
 article {
 	width: 740px;
 	margin-left: 380px;
-	margin-top: 200px;
+	margin-top: 120px;
 }
 
 article p:first-of-type {
@@ -196,6 +216,7 @@ h1 {
 }
 
 h2 {
+  font-family: Libre_Caslon_Text_Italic;
 	font-size: 3em;
 	margin-bottom: 1.25em;
 	margin-top: .5em;
