@@ -139,10 +139,10 @@ about 200 in number could be counted, with the \[*sic*\] help of a lens”
 (fig. 1).[^8]
 
 ![15048.png](../assets/images/15048.png)
-Figure 1. William Henry Fox Talbot (British, 1800–1877), Latticed Window at Lacock
-Abbey (with the Camera Obscura), August 1835. Salted paper negative,
-sheet: 6.9 × 14.9 cm (2 11/16 × 5 7/8 in.). Bradford, National Media
-Museum, 1937-0361
+<figcaption>Figure 1. William Henry Fox Talbot (British, 1800–1877),
+Latticed Window at Lacock Abbey (with the Camera Obscura), August 1835.
+Salted paper negative, sheet: 6.9 × 14.9 cm (2 11/16 × 5 7/8 in.).
+Bradford, National Media Museum, 1937-0361</figcaption>
 
 More than two years passed, during which time Talbot did not hurry to
 make public his process — presumably because he was still unable to
@@ -170,11 +170,12 @@ to the society explaining exactly how and when he had made his images of
 “flowers and leaves; a pattern of lace; figures taken from painted
 glass; a view of Venice copied from an engraving; some images formed by
 the Solar Microscope … various pictures, representing the architecture
-of my house in the country; all these made in the summer of 1835.”[^9] On January 25 he also wrote to Sir
-John Herschel, who had been following the story with interest, to tell
-his old friend that he himself had in fact “discovered about five years
-ago … the possibility of fixing upon paper the image formed by a Camera
-Obscura; or rather, I should say, causing it to *fix itself*.”[^10]
+of my house in the country; all these made in the summer of 1835.”[^9]
+On January 25 he also wrote to Sir John Herschel, who had been following
+the story with interest, to tell his old friend that he himself had in
+fact “discovered about five years ago … the possibility of fixing upon
+paper the image formed by a Camera Obscura; or rather, I should say,
+causing it to *fix itself*.”[^10]
 
 It’s a little surprising that Talbot, despite a correspondence of many
 years with Herschel on matters scientific and horticultural, appears not
@@ -190,8 +191,8 @@ call on him in London to view “specimens of this curious process.”[^11]
 On January 27, however, Herschel wrote back from his country house in
 Slough to say that he was unable to get to town, owing to “many
 engagements to say nothing of a rheumatic affliction which confines me a
-large portion of each day to my bed.”[^12] Talbot would have to pay a visit to
-Herschel instead.
+large portion of each day to my bed.”[^12] Talbot would have to pay a visit
+to Herschel instead.
 
 Since Herschel’s entry in his personal notebook regarding his success
 with sodium hyposul-phite as a fixing agent is dated only two days after
@@ -207,19 +208,20 @@ Chloride be *washed out* of *the paper* which may be done
 — leaving the reduced silver still on the paper in the form of a fine
 Brown or Sepia tint — our picture becomes permanent.” Herschel then
 revised this letter, adding in a postscript to the second version that
-“on trial the Hyposulphite appears to answer perfectly the end.”[^13] So it was that on Friday, February
-1, 1839, Talbot, carrying his “Camera Obscura pictures”[^14] with him, took a day-return ticket
-on the new train down to Slough.
+“on trial the Hyposulphite appears to answer perfectly the end.”[^13]
+So it was that on Friday, February 1, 1839, Talbot, carrying his “Camera
+Obscura pictures”[^14] with him, took a day-return ticket on the new train
+down to Slough.
 
 ![15097.png](../assets/images/15097.png)
-Figure 2. Julia Margaret Cameron (British, born India, 1815–1879), Sir John F. W.
-Herschel, 1867. Carbon print, 29.8 × 23.2 cm (11 3/4 × 9 1/8 in.). Los
-Angeles, J. Paul Getty Museum, 84.XM.349.4
+<figcaption>Figure 2. Julia Margaret Cameron (British, born India, 1815–1879),
+Sir John F. W. Herschel, 1867. Carbon print, 29.8 × 23.2 cm (11 3/4 ×
+9 1/8 in.). Los Angeles, J. Paul Getty Museum, 84.XM.349.4</figcaption>
 
 ![Queen-Victoria-Fig\_03r2\_73C.png](../assets/images/Queen-Victoria-Fig_03r2_73C.png)
-Figure 3. Antoine Claudet (French, 1797–1867), Portrait of William Henry Fox
-Talbot, ca. 1844. Daguerreotype, 9.5 × 8.4 cm (3 3/4 × 3 5/16 in.).
-Bradford, National Media Museum, 2003-5001/2/20882
+<figcaption>Figure 3. Antoine Claudet (French, 1797–1867), Portrait of
+William Henry Fox Talbot, ca. 1844. Daguerreotype, 9.5 × 8.4 cm (3 3/4 ×
+3 5/16 in.). Bradford, National Media Museum, 2003-5001/2/20882</figcaption>
 
 Herschel’s work with “hypo,” Talbot discovered, did indeed answer
 “perfectly the end” and was a vital contribution to the progress of this
@@ -227,7 +229,8 @@ as yet unnamed art. Moreover, in contrast to Daguerre, who was
 preoccupied with secrecy, Herschel had no reservations about sharing his
 discovery of the fixing process. He permitted Talbot to make the
 findings public, with the result that following their publication by the
-French Academy of Sciences, hypo was picked up by Daguerre himself.[^15] Today, Herschel is also credited
+French Academy of Sciences, hypo was picked up by Daguerre himself.[^15]
+Today, Herschel is also credited
 with coming up with the umbrella term used to describe the work of both
 Daguerre and Talbot—*photography*—a word that would be formalized by
 Talbot a couple of years later in a public letter to the *Literary
