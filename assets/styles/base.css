@@ -113,6 +113,23 @@ a:hover {
 	float: right;
 }
 
+.footnotes {
+  font-family: CooperHewitt_Book, Helvetica, Arial, sans-serif;
+	font-size: .8em;
+  letter-spacing: 1px;
+  margin-top: 80px;
+}
+.footnotes em {
+	font-family: CooperHewitt_BookItalic, Helvetica, Arial, sans-serif;
+}
+.footnotes ol {
+  padding: 1em;
+}
+.footnotes ol li {
+  margin-bottom: .75em;
+}
+
+
 .toc {
 	font-family: CooperHewitt_Book, Helvetica, Arial, sans-serif;
 	font-size: .8em;

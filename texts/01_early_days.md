@@ -241,8 +241,6 @@ evident superiority of the daguerreotype. But one thing, at least, was
 finally clear to everybody: the two processes, English and French, were
 very different.
 
-### Notes
-
 [^1]: John Frederick William Herschel to William Henry Fox Talbot, May 9, 1839, in *The Correspondence of William Henry Fox Talbot,* ed. Larry J. Shaaf, De Montfort University, Leicester, <http://www.foxtalbot.dmu.ac.uk>. The manuscript collections, and the depositories of the collections, in which all of Talbot’s letters cited in this essay can be found, are identified on this Web site.
 
 [^2]: H. Gaucheraud, “The Daguerotype \[*sic*\],” *Gazette de France*, January 6, 1839, reprinted in *Literary Gazette*, January 12, 1839, 26.
