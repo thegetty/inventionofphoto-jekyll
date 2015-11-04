@@ -144,6 +144,136 @@ a:hover {
 }
 
 article {
+	width: 100%;
+	margin: 0;
+  padding: 0;
+}
+
+article p, article header, article .footnotes {
+  width: 50%;
+  max-width: 720px;
+  min-width: 440px;
+	margin-left: 440px;
+}
+
+article .footnotes p {
+  margin-left: 0px;
+}
+
+article header {
+  margin-top: 120px;
+}
+
+article p {
+  text-indent: 2em;
+}
+
+article p:first-of-type {
+	text-indent: 0;
+}
+
+article sup {
+  margin-left: 1px;
+  line-height: 0;
+}
+
+blockquote {
+	margin: 1em 2em;
+	font-style: italic;
+}
+
+blockquote cite {
+	font-size: .7em;
+}
+
+blockquote p em {
+  font-family: Libre_Caslon_Text;
+	font-style: normal;
+}
+
+blockquote + p {
+  text-indent: 0;
+}
+
+article img {
+	width: 400px;
+	float: right;
+	margin: 1em 0 0 20px;
+	max-width: 100%;
+}
+
+p img, figcaption {
+	width: 400px;
+	float: right;
+	margin: 1em 0px 1em 20px;
+	max-width: 100%;
+	font-size: .85em;
+	font-family: CooperHewitt_Semibold, Helvetica, Arial, sans-serif;
+	line-height: 1.6em;
+	text-indent: 0;
+}
+
+figcaption em {
+	font-family: CooperHewitt_SemiboldItalic, Helvetica, Arial, sans-serif;
+}
+
+figcaption strong {
+	font-family: CooperHewitt_Heavy, Helvetica, Arial, sans-serif;
+}
+
+/*img + span em {
+	font-family: CooperHewitt_SemiboldItalic, Helvetica, Arial, sans-serif;
+}
+
+img + span strong {
+	font-family: CooperHewitt_Heavy, Helvetica, Arial, sans-serif;
+}*/
+
+h1 {
+	font-size: 4em;
+	font-family: CooperHewitt_Bold, Helvetica, Arial, sans-serif;
+	color: #fff;
+	line-height: 1.35em;
+	margin-bottom: .5em;
+}
+
+h2 {
+  font-family: Libre_Caslon_Text_Italic;
+	font-size: 3em;
+	margin-bottom: 1.25em;
+	margin-top: .5em;
+	color: #0188ca;
+	line-height: 1.35em;
+}
+
+h2.chapter-number {
+	font-family: CooperHewitt_Bold, Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 1em;
+	font-weight: 900;
+}
+
+h3 {
+	font-size: 2em;
+	margin: 1em 0 .5em;
+	line-height: 1.55em;
+}
+
+h3 + p {
+	text-indent: 0;
+}
+
+h4 {
+	font-family: CooperHewitt_Medium, Helvetica, Arial, sans-serif;
+	margin: 1em 0;
+	text-transform: uppercase;
+}
+
+/*
+
+LAst version
+
+article {
 	width: 720px;
 	margin-left: 400px;
 	margin-top: 120px;
@@ -247,4 +377,4 @@ h4 {
 	font-family: CooperHewitt_Medium, Helvetica, Arial, sans-serif;
 	margin: 1em 0;
 	text-transform: uppercase;
-}
+}*/
