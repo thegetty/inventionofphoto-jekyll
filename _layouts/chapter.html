@@ -1,9 +1,14 @@
 ---
 layout: base
 ---
-<!-- {% include banner.html %} -->
 
-{% include toc.html %}
+<nav>{% if page.previous %}
+<h2 id="next"><a href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-chevron-left"></i></a></h2>{% else %}
+<h2 id="next"><a href="{{ site.baseurl }}/index.html"><i class="fa fa-chevron-left"></i></a></h2>
+{% endif %}
+{% if page.next %}
+<h2 id="prev"><a href="{{ site.baseurl }}{{page.next.url}}"><i class="fa fa-chevron-right"></i></a></h2>
+{% endif %}</nav>
 
 <article>
 
@@ -16,14 +21,4 @@ layout: base
 
 </article>
 
-
-{% if page.previous %}
-<div id="next" >
-	<a href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-chevron-circle-left"></i>PREV</a>
-</div>
-{% endif %}
-{% if page.next %}
-<div id="prev">
-	<a href="{{ site.baseurl }}{{page.next.url}}"><i class="fa fa-chevron-circle-right"></i>NEX</a>
-</div>
-{% endif %}
+{% include toc.html %}

@@ -45,7 +45,6 @@ a:hover {
 	background-color: #e5e5e5;
 }
 
-
 .cover {
 	width: 100%;
 	height: 1000px;
@@ -73,6 +72,22 @@ a:hover {
 .cover h2 {
 	color: #F7F599;
 }
+
+#next {
+  	position: fixed;
+  	bottom: 200px;
+  	left: 0;
+    padding-left: 20px;
+  }
+#prev {
+	position: fixed;
+	bottom: 200px;
+	right: 0;
+  padding-right: 20px;
+  height: 100px;
+}
+
+
 
 .banner {
 	color: #000;
@@ -137,10 +152,9 @@ a:hover {
   letter-spacing: 1px;
   color: #0188ca;
 	position: fixed;
-	float: left;
+	top: 120px;
+  left: 90px;
 	width: 300px;
-	margin-left: 40px;
-	margin-right: 60px;
 	padding-left: 0;
 	list-style: none;
 }
