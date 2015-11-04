@@ -1,4 +1,42 @@
 @font-face {
+  font-family: 'Libre_Caslon_Text';
+  src: 	url('../fonts/LibreCaslonText-Regular.eot');
+  src:	url('../fonts/LibreCaslonText-Regular.ttf') format('truetype'),
+  		  url('../fonts/LibreCaslonText-Regular.woff') format('woff'),
+        url('../fonts/LibreCaslonText-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family:  'Libre_Caslon_Text_Italic';
+  src: 	url('../fonts/LibreCaslonText-Italic.eot');
+  src:	url('../fonts/LibreCaslonText-Italic.ttf') format('truetype'),
+  		  url('../fonts/LibreCaslonText-Italic.woff') format('woff'),
+        url('../fonts/LibreCaslonText-Italic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'League_Gothic';
+  src: 	url('../fonts/leaguegothic-regular.eot');
+  src:	url('../fonts/leaguegothic-regular.ttf') format('truetype'),
+  		  url('../fonts/leaguegothic-regular.woff') format('woff'),
+        url('../fonts/leaguegothic-regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'League_Gothic_Italic';
+  src: 	url('../fonts/leaguegothic-italic.eot');
+  src:	url('../fonts/leaguegothic-italic.ttf') format('truetype'),
+  		  url('../fonts/leaguegothic-italic.woff') format('woff'),
+        url('../fonts/leaguegothic-italic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/*@font-face {
   font-family: "Merriweather Regular";
   src: url("../fonts/merriweather-regular.otf");
   font-weight: 400; }
@@ -21,7 +59,7 @@
 @font-face {
   font-family: "SourceSans Bold";
   src: url("../fonts/sourcesanspro-bold.otf");
-  font-weight: 700; }
+  font-weight: 700; }*/
 
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -30,14 +68,14 @@ dl, dd, figure {
   padding: 0; }
 
 body {
-	font-family: "Merriweather Regular", serif;
+	font-family: Libre_Caslon_Text, serif;
 	font-size: 20px;
 	line-height: 1.7em;
 	color: #282828;
 }
 
 em {
-	font-family: "Merriweather Italic", serif;
+	font-family: Libre_Caslon_Text_Italic, serif;
 	font-style: none;
 }
 
@@ -93,7 +131,7 @@ a:hover {
 .banner h1 {
 	margin: 30px 20px 20px;
 	padding: 0;
-	font-family: "SourceSans Bold", sans-serif;
+	font-family: League_Gothic, sans-serif;
 	font-size: 1em;
 	float: left;
 	font-weight: normal;
@@ -109,7 +147,7 @@ a:hover {
 
 .banner .author {
 	text-transform: none;
-	font-family: "SourceSans", sans-serif;
+	font-family: League_Gothic, sans-serif;
 }
 
 .banner .logo {
@@ -120,7 +158,7 @@ a:hover {
 }
 
 .toc-sidebar {
-	font-family: "SourceSans", sans-serif;
+	font-family: League_Gothic, sans-serif;
 	font-size: .8em;
 	color: #0188ca;
 	position: fixed;
@@ -133,7 +171,7 @@ a:hover {
 }
 
 .toc-sidebar em {
-	font-family: "SourceSans Italic";
+	font-family: League_Gothic_Italic;
 }
 
 article {
@@ -161,6 +199,11 @@ blockquote cite {
 	font-size: .7em;
 }
 
+blockquote p em {
+  font-family: Libre_Caslon_Text;
+	font-style: normal;
+}
+
 article img {
 	width: 400px;
 	float: right;
@@ -174,22 +217,22 @@ img + span {
 	margin: 1em 0px 1em 20px;
 	max-width: 100%;
 	font-size: .85em;
-	font-family: "SourceSans", sans-serif;
+	font-family: League_Gothic, sans-serif;
 	line-height: 1.4em;
 	text-indent: 0;
 }
 
 img + span em {
-	font-family: "SourceSans Italic", sans-serif;
+	font-family: League_Gothic_Italic, sans-serif;
 }
 
 img + span strong {
-	font-family: "SourceSans Bold", sans-serif;
+	font-family: League_Gothic, sans-serif;
 }
 
 h1 {
 	font-size: 4em;
-	font-family: "Merriweather Italic";
+	font-family: League_Gothic, sans-serif;
 	color: #fff;
 	line-height: 1.35em;
 	margin-bottom: .5em;
@@ -204,7 +247,7 @@ h2 {
 }
 
 h2.chapter-number {
-	font-family: "SourceSans Bold", sans-serif;
+	font-family: League_Gothic, sans-serif;
 	text-transform: uppercase;
 	font-size: 1em;
 	font-weight: 900;
@@ -221,7 +264,7 @@ h3 + p {
 }
 
 h4 {
-	font-family: "SourceSans Bold", sans-serif;
+	font-family: League_Gothic, sans-serif;
 	margin: 1em 0;
 	text-transform: uppercase;
 }
