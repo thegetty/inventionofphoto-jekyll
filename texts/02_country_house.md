@@ -231,8 +231,6 @@ Figure 5. William Henry Fox Talbot (British, 1800–1877), Bust of Patroclus, Au
 paper negative, 14.9 × 11.9 cm (5 7/8 × 4 11/16 in.). Los Angeles, J.
 Paul Getty Museum, 84.XM.478.17
 
-### Notes
-
 [^16]: *Times* (London), February 1, 1839. All quotations and references following are to this day’s edition, available online through the digital archive, at <http://www.thetimes.co.uk>.
 
 [^17]: Constance Talbot to Talbot, September 7, 1835, in *Talbot Correspondence* ([note 1](01_early_days.html#fn:1)).

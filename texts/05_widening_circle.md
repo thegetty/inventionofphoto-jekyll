@@ -122,8 +122,6 @@ By 1857 photography was, as Elizabeth Eastlake put it,
 From Buckingham Palace to the London gin palace, photography, it seemed,
 at last belonged to everyone.
 
-### Notes
-
 [^56]: *Times* (London), May 28, 1846, 1.
 
 [^57]: *Edinburgh Review*, January 1843 ([note 39](04_photographic_portraiture.html#fn:39)), 67.

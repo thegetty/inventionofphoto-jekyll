@@ -179,8 +179,6 @@ that limited its wider use throughout the 1840s, despite Reverend
 Bridges’s sentiment that it was, of all the arts, “the most astonishing
 of modern times.”[^55]
 
-### Notes
-
 [^38]: Constance Talbot to Talbot, April 20, 1838, in *Talbot Correspondence* ([note 1](01_early_days.html#fn:1)).
 
 [^39]: Constance Talbot to Talbot, May 7, 1838, in *Talbot Correspondence* ([note 1](01_early_days.html#fn:1)).

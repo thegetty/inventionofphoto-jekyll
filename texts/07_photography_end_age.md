@@ -155,8 +155,6 @@ Figure 15. Unknown photographer, *Funeral Procession of Queen Victoria*, Februar
 1901. Gelatin silver print, 28 × 35.5 cm (11 × 14 in.). London, National
 Army Museum, NAM 1971-01-35-219
 
-### Notes
-
 [^80]: ‘The Photographic Hat,” reprinted in Leonard de Vries, *Victorian Inventions* (London, 1973), 112.
 
 [^81]: Henry James, *Notebook*, 82, quoted in Richard Salmon, *Henry James and the Culture of Publicity* (Cambridge, 1997), 8.

@@ -243,8 +243,6 @@ mortality that drove much of the marketing of portrait photographs. The
 prudent Victorian was advised to “secure the shadow ’ere the substance
 fade” by letting “nature imitate what Nature made.”[^79]
 
-### Notes
-
 [^65]: Michael Bartram, *The Pre-Raphaelite Camera: Aspects of Victorian Photography* (Boston, 1985), 7.
 
 [^66]: *Photographic News,* April 26, 1861, “Images of the Industrial Revolution in Britain.” <http://www.netnicholls.com/neh2001/pages/aspects7/75frame.htm>.

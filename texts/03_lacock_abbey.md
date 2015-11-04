@@ -133,8 +133,6 @@ to be framed & glazed & hung up at Buckingham Palace,” she quoted from
 the paper in a letter to her son. “Why did not *you* do this for her
 Majesty?”[^37]
 
-### Notes
-
 [^23]: Elisabeth Feilding to Talbot, February 27, 1839, in *Talbot Correspondence* ([note 1](01_early_days.html#fn:1)). Horatia was not alone in her ideas for the new baby: Harriot Mundy, one of Talbot’s sisters-in-law, had just the day before suggested that “the young Lady *must* be called *Photogena* in memory or rather honour of your new discovery!” Harriot Mundy to Talbot, February 26, 1839, in *Talbot Correspondence* ([note 1](01_early_days.html#fn:1)).
 
 [^24]: Elisabeth Feilding to Talbot, February 3, 1839, in *Talbot Correspondence* ([note 1](01_early_days.html#fn:1)).
