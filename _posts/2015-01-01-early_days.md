@@ -2,6 +2,7 @@
 layout: chapter
 title: Early Days
 subtitle: Photogenic Drawing and the Daguerreotype
+chapter_no:
 ---
 
 On May 9, 1839, the scientist and astronomer Sir John Frederick William

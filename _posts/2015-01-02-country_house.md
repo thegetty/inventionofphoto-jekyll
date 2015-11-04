@@ -2,6 +2,7 @@
 layout: chapter
 title: Photography and the View from the Country House
 subtitle:
+chapter_no:
 ---
 
 Let’s return for a moment to February 1, 1839, and the afternoon of

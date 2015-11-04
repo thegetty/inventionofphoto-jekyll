@@ -2,6 +2,7 @@
 layout: frontmatter
 title: Copyright
 subtitle:
+chapter_no:
 ---
 
 *© 2014 J. Paul Getty Trust*

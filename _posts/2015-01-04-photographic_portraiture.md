@@ -2,6 +2,7 @@
 layout: chapter
 title: Photographic Portraiture
 subtitle:
+chapter_no:
 ---
 
 From the excited and vibrant correspondence among Talbot’s friends and

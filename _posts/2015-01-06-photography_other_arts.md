@@ -2,6 +2,7 @@
 layout: chapter
 title: Photography and Other Arts
 subtitle:
+chapter_no:
 ---
 
 If there is one thing that unites early and late discussion of

@@ -2,6 +2,7 @@
 layout: chapter
 title: Photography and the End of an Age
 subtitle:
+chapter_no:
 ---
 
 The last two decades of the Victorian age saw further refinements in the

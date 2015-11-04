@@ -2,6 +2,7 @@
 layout: chapter
 title: From Lacock Abbey to Buckingham Palace
 subtitle:
+chapter_no:
 ---
 
 Lady Elisabeth Feilding (1773–1846; fig. 6), was a woman of strong

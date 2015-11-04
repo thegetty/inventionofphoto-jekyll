@@ -2,8 +2,8 @@
 <ul>
 <li class="title">{{ site.title }}</li>
 <li class="author">{{ site.author }}</li>
-{% for page in site.pages %}
-<li>{%if page.chapter_no %}<a href="{{ page.url }}">Chapter {{ page.chapter_no }}: {{ page.title }}</a>{% else %}<a href="{{ page.url }}">{% if page.layout == "frontmatter" %}<em>{{ page.title }}</em>{% else %}{{ page.title }}{% endif %}</a>{% endif %}</li>
+{% for post in site.posts reversed %}
+<li>{%if post.chapter_no %}<a href="{{ post.url }}">Chapter {{ post.chapter_no }}: {{ post.title }}</a>{% else %}<a href="{{ post.url }}">{% if post.layout == "frontmatter" %}<em>{{ post.title }}</em>{% else %}{{ post.title }}{% endif %}</a>{% endif %}</li>
 {% endfor %}
 </ul>
 </nav>

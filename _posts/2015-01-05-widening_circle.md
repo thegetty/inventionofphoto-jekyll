@@ -2,6 +2,7 @@
 layout: chapter
 title: The Widening Circle
 subtitle:
+chapter_no:
 ---
 
 As the making of both daguerreotypes and calotypes became more widely

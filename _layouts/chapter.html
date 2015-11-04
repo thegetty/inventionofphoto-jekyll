@@ -15,3 +15,15 @@ layout: base
 	{{ content }}
 
 </article>
+
+
+{% if page.previous %}
+<div id="next" >
+	<a href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-chevron-circle-left"></i>PREV</a>
+</div>
+{% endif %}
+{% if page.next %}
+<div id="prev">
+	<a href="{{ site.baseurl }}{{page.next.url}}"><i class="fa fa-chevron-circle-right"></i>NEX</a>
+</div>
+{% endif %}
