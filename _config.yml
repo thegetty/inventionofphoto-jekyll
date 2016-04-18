@@ -5,7 +5,7 @@ author: Jennifer Green‑Lewis
 description: "A rich exploration of Victoria's portrayal in photography and her role in shaping the medium"
 permalink: none # this removes the required date (YYYY-MM-DD) from the post URLs
 
-# baseurl: "http://localhost:4000" # the subpath of your site, e.g. /blog/
+baseurl: ""
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings

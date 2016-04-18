@@ -2,7 +2,7 @@
 <ul>
 <li><a href="index.html"><h4>{{ site.title }}</a><br /><span class="author">{{ site.author }}</h4></li>
 {% for post in site.posts reversed %}
-<li>{%if post.chapter_no %}<a href="{{ post.url }}">Chapter {{ post.chapter_no }}: {{ post.title }}</a>{% else %}<a href="{{ post.url }}">{% if post.layout == "frontmatter" %}<em>{{ post.title }}</em>{% else %}{{ post.title }}{% endif %}</a>{% endif %}</li>
+<li>{%if post.chapter_no %}<a href="{{ site.baseurl }}{{ post.url }}">Chapter {{ post.chapter_no }}: {{ post.title }}</a>{% else %}<a href="{{ site.baseurl }}{{ post.url }}">{% if post.layout == "frontmatter" %}<em>{{ post.title }}</em>{% else %}{{ post.title }}{% endif %}</a>{% endif %}</li>
 {% endfor %}
 </ul>
 </nav>
