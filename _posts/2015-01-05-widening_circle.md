@@ -22,7 +22,7 @@ likeness. “The sitting does not exceed half a minute,” assured one
 advertisement, adding that “the portrait is a stamp of the original, and
 produces in effect a second self.”[^56]
 
-![17690.png](../assets/images/17690.png)
+![17690.png](assets/images/17690.png)
 Figure 9. Classified advertisements for photographic services on the front
 page of the Times (London), May 28, 1846.
 

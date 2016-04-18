@@ -139,7 +139,7 @@ Camera Obscura) August 1835. — When first made, the squares of glass
 about 200 in number could be counted, with the \[*sic*\] help of a lens”
 (fig. 1).[^8]
 
-![15048.png](../assets/images/15048.png)
+![15048.png](assets/images/15048.png)
 <figcaption>Figure 1. William Henry Fox Talbot (British, 1800–1877),
 Latticed Window at Lacock Abbey (with the Camera Obscura), August 1835.
 Salted paper negative, sheet: 6.9 × 14.9 cm (2 11/16 × 5 7/8 in.).
@@ -214,12 +214,12 @@ So it was that on Friday, February 1, 1839, Talbot, carrying his “Camera
 Obscura pictures”[^14] with him, took a day-return ticket on the new train
 down to Slough.
 
-![15097.png](../assets/images/15097.png)
+![15097.png](assets/images/15097.png)
 <figcaption>Figure 2. Julia Margaret Cameron (British, born India, 1815–1879),
 Sir John F. W. Herschel, 1867. Carbon print, 29.8 × 23.2 cm (11 3/4 ×
 9 1/8 in.). Los Angeles, J. Paul Getty Museum, 84.XM.349.4</figcaption>
 
-![Queen-Victoria-Fig\_03r2\_73C.png](../assets/images/Queen-Victoria-Fig_03r2_73C.png)
+![Queen-Victoria-Fig\_03r2\_73C.png](assets/images/Queen-Victoria-Fig_03r2_73C.png)
 <figcaption>Figure 3. Antoine Claudet (French, 1797–1867), Portrait of
 William Henry Fox Talbot, ca. 1844. Daguerreotype, 9.5 × 8.4 cm (3 3/4 ×
 3 5/16 in.). Bradford, National Media Museum, 2003-5001/2/20882</figcaption>

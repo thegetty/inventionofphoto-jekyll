@@ -35,23 +35,23 @@ production of his great painting ‘Life at a Railway Station.’ Such is
 the value of the photograph in aiding the artist’s work, that he wonders
 now however they did without them!”[^66]
 
-![15690.png](../assets/images/15690.png)
+![15690.png](assets/images/15690.png)
 Figure 10. John Robert Parsons (British, ca. 1826–1909, act. 1860s–1870s), Untitled
 (Portrait of Jane Morris \[Mrs. William Morris\]), negative, July 1865;
 print, ca. 1900. Gelatin silver print, 23.7 × 19.5 cm (9 5/16 × 7 11/16
 in.). Los Angeles, J. Paul Getty Museum, 84.XM.847.2
 
-![15699.png](../assets/images/15699.png)
+![15699.png](assets/images/15699.png)
 Figure 11. Dante Gabriel Rossetti (British, 1828–1882), The Roseleaf, 1870.
 Graphite on wove paper, 39.1 × 35.2 cm (15 3/8 × 13 7/8 in.). Ottawa,
 National Gallery of Canada, 3202
 
-![Queen-Victoria-Fig\_13r1\_73C.png](../assets/images/Queen-Victoria-Fig_13r1_73C.png)
+![Queen-Victoria-Fig\_13r1\_73C.png](assets/images/Queen-Victoria-Fig_13r1_73C.png)
 Figure 12. William Powell Frith (British, 1819–1909), The Derby Day, 1856–58. Oil
 on canvas, 101.6 × 223.5 cm (40 × 88 in.). Bequeathed by Jacob Bell,
 1859. London, Tate Collection, N00615
 
-![15826.png](../assets/images/15826.png)
+![15826.png](assets/images/15826.png)
 Figure 13. Robert Howlett (British, 1831–1858), Untitled (Study for the Large
 Painting “Derby Day,” by William Powell Frith), 1856. Albumen silver
 stereograph, 8.6 × 17.5 cm (3 3/8 × 6 7/8 in.). Gift of Weston J. and

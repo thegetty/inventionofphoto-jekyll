@@ -220,13 +220,13 @@ belong is the world of Lacock Abbey and other grand houses like it,
 houses from which the view is as curious and as charming, but arguably
 as unrepresentative of the larger world, as Lilliput.
 
-![Queen-Victoria-Fig\_04r2\_73C.png](../assets/images/Queen-Victoria-Fig_04r2_73C.png)
+![Queen-Victoria-Fig\_04r2\_73C.png](assets/images/Queen-Victoria-Fig_04r2_73C.png)
 Figure 4. William Henry Fox Talbot (British, 1800–1877), Cloisters of Lacock
 Abbey, 1844. From the book The Pencil of Nature. Salted paper print from
 a paper negative, 16 × 21.4 cm (6 5/16 × 8 7/16 in.). Los Angeles, J.
 Paul Getty Museum, 84.XZ.571.16
 
-![Queen%20Victoria%20Fig\_05r1\_73C.psd](../assets/images/Queen-Victoria-Fig_05r1_73C.png)
+![Queen%20Victoria%20Fig\_05r1\_73C.psd](assets/images/Queen-Victoria-Fig_05r1_73C.png)
 Figure 5. William Henry Fox Talbot (British, 1800–1877), Bust of Patroclus, August
 9, 1843. From the book The Pencil of Nature. Salted paper print from a
 paper negative, 14.9 × 11.9 cm (5 7/8 × 4 11/16 in.). Los Angeles, J.

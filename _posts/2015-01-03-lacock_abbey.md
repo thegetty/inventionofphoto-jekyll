@@ -17,7 +17,7 @@ patent.” Of the new arrival, she added in closing that “Horatia
 \[Henry’s half sister\] proposes her name should be *Iodine* in honor of
 your discovery.”[^23]
 
-![15312.png](../assets/images/15312.png)
+![15312.png](assets/images/15312.png)
 Figure 6. William Henry Fox Talbot (British, 1800–1877), Lady Elisabeth Feilding,
 August 21, 1841. From the Brewster Album. Salted paper print from a
 paper negative, 15.6 × 9.2 cm (6 1/8 × 3 5/8 in.). Los Angeles, J. Paul
@@ -54,13 +54,13 @@ are all busy trying little scraps of lace & ribbon\[. O\]ne succeeded
 very well this morning before breakfast but the day is clouding over —
 Mr. Calvert Jones is quite wild about it.”[^28]
 
-![Queen-Victoria-Fig\_07r1\_73C.png](../assets/images/Queen-Victoria-Fig_07r1_73C.png)
+![Queen-Victoria-Fig\_07r1\_73C.png](assets/images/Queen-Victoria-Fig_07r1_73C.png)
 Figure 7. Reverend Calvert Richard Jones (British, 1804–1877), Untitled (Two-Part
 Panorama Study of Margam Hall with Figures), ca. 1845. Salted paper
 prints from paper negatives, 22.5 × 37.2 cm (8 7/8 × 14 5/8 in.). Los
 Angeles, J. Paul Getty Museum, 89.XM.75
 
-![15406.png](../assets/images/15406.png)
+![15406.png](assets/images/15406.png)
 Figure 8. John Dillwyn Llewelyn (British, 1810–1882), In the Grounds, Penllergare,
 ca. 1855. Albumen silver print, 29.5 × 24.8 cm (11 5/8 × 9 3/4 in.). Los
 Angeles, J. Paul Getty Museum, 84.XP.769.51

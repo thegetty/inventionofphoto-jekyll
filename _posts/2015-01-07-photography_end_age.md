@@ -146,12 +146,12 @@ Arch, where he perched perilously, braving the bitter cold, the long
 hours of waiting, and the seemingly endless repetition of Chopin’s
 Funeral March, to get the best picture that he could.[^90]
 
-![15973.png](../assets/images/15973.png)
+![15973.png](assets/images/15973.png)
 Figure 14. Unknown photographer, Photograph of Victoria on Her Deathbed, January
 1901. Gelatin silver print, 15.1 × 19.8 cm (515 /16 × 713 /16 in.).
 Windsor, The Royal Collection, RCIN 2943926
 
-![15981.png](../assets/images/15981.png)
+![15981.png](assets/images/15981.png)
 Figure 15. Unknown photographer, *Funeral Procession of Queen Victoria*, February
 1901. Gelatin silver print, 28 × 35.5 cm (11 × 14 in.). London, National
 Army Museum, NAM 1971-01-35-219
