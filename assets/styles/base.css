@@ -161,20 +161,15 @@ h4 {
   text-transform: none;
 }
 
-article {
-	width: 100%;
-	margin: 0;
-  padding: 0;
-}
 
-article p, article header, article .footnotes {
+article {
   width: 50%;
   max-width: 720px;
   min-width: 440px;
 	margin-left: 440px;
 }
 
-article .footnotes p {
+article .footnotes {
   margin-left: 0px;
 }
 
@@ -221,7 +216,7 @@ article img {
 	max-width: 100%;
 }
 
-p img, figcaption {
+p img, figure, figcaption {
 	width: 400px;
 	float: right;
 	margin: 1em 0px 1em 20px;
